@@ -14,6 +14,6 @@ CodeBook.md - describes the variables, the data, and any transformations or work
 
 run_anaylsis.R - contains the coding for doing the course project, that includes downloading and unzipping the dataset used for this project.
 
-TidyData.txt - is the output text file from run_analysis.R, which is the average features for each subject and each activity. Please refer to CodeBook.md. for more detailed information.
+final.txt - is the output text file from run_analysis.R, which is the average features for each subject and each activity. Please refer to CodeBook.md. for more detailed information.
 
 and the original dataset.
