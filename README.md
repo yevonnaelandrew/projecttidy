@@ -9,7 +9,11 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Files included in the repo:
+
 CodeBook.md - describes the variables, the data, and any transformations or work that were performed to clean up the data.
+
 run_anaylsis.R - contains the coding for doing the course project, that includes downloading and unzipping the dataset used for this project.
+
 TidyData.txt - is the output text file from run_analysis.R, which is the average features for each subject and each activity. Please refer to CodeBook.md. for more detailed information.
+
 and the original dataset.
